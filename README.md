@@ -1,20 +1,14 @@
-### Hi there 👋
+# About me
+Hello i'm IOS Developer who love apple products <br>
+Here is my [detail info](https://navy-nebula-d28.notion.site/4d34ada45df241aa8a85a63f18abf040?pvs=4)
 
-<!--
-**ksj0109188/ksj0109188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# iOS Projects
+- RandomDine (2024.1 ~ 2.24.2) <br>
+Random Restaurant Recommendation App for the Indecisive <br>
+Here is Apple store and github link
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/apple-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />](https://apps.apple.com/kr/app/randomdine/id6477853120) 
+[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ksj0109188/Effortless-Eats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />https://navy-nebula-d28.notion.site/4d34ada45df241aa8a85a63f18abf040?pvs=4  </img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj0109188&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj0109188&layout=compact)](https://github.com/delay-100/github-readme-stats)
