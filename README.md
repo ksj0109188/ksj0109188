@@ -1,5 +1,5 @@
 # About me
-Hello! I'm an iOS Developer with a love for Apple producs.<br>
+Hello! I'm an iOS Developer with a love for Apple products.<br>
 Below are the details about me. <br><br>
 [<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://navy-nebula-d28.notion.site/4d34ada45df241aa8a85a63f18abf040?pvs=4)
 
