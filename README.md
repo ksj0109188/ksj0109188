@@ -4,7 +4,7 @@ Below link are the details about my info <br><br>
 [<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://navy-nebula-d28.notion.site/4d34ada45df241aa8a85a63f18abf040?pvs=4)
 
 # iOS Projects
-### RandomDine (2024.1 ~ 2024.2)<br>
+### RandomDine (2024.1 ~)<br>
 Random Restaurant Recommendation App for the Indecisive <br>
 Below are the links to my apps on the Apple Store and my projects on GitHub. <br><br>
 [<img src="https://img.shields.io/badge/apple-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />](https://apps.apple.com/kr/app/randomdine/id6477853120) 
