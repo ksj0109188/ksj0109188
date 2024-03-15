@@ -1,7 +1,7 @@
 # About me
 Hello! I'm an iOS Developer with a love for Apple products.<br>
 Below link are the details about my info <br><br>
-[<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://navy-nebula-d28.notion.site/4d34ada45df241aa8a85a63f18abf040?pvs=4)
+[<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://navy-nebula-d28.notion.site/iOS-07f2c0ea99e54202a3e1bd48ef97f7e0)
 
 # iOS Projects
 ### RandomDine (2024.1 ~)<br>
