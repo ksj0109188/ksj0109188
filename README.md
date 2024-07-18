@@ -13,7 +13,3 @@ Below are the links to my apps on the Apple Store and my projects on GitHub. <br
 ## Contact & Channel
 **Email** | tjdwns6481@naver.com <br>
 **Blog** | [https://jjunbbang.tistory.com](https://jjunbbang.tistory.com/)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj0109188&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj0109188&layout=compact)](https://github.com/delay-100/github-readme-stats)
