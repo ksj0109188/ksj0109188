@@ -3,7 +3,9 @@ Hello! I'm an iOS Developer with a love for Apple products.<br>
 Below link are the details about my info <br>
 [<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://navy-nebula-d28.notion.site/iOS-07f2c0ea99e54202a3e1bd48ef97f7e0)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj0109188&show_icons=true&theme=radical)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0109188)](https://solved.ac/ksj0109188/) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj0109188&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
 
 # iOS Projects
 ### RandomDine (2024.1 ~)<br>
