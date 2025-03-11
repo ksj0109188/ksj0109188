@@ -28,7 +28,7 @@ Below are the links to my apps on the Apple Store and my projects on GitHub. <br
 ### LuminaView(2024.07 ~)<br>
 Experience a seamless walking guide for the visually impaired—no high-end hardware needed. Real-time route and hazard alerts in your language, plus haptic feedback.<br>
 [<img src="https://img.shields.io/badge/apple-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />](https://apps.apple.com/kr/app/luminaview/id6737554316) 
-[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />]([https://github.com/ksj0109188/Effortless-Eats](https://github.com/ksj0109188/Public_LuminaView))
+[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ksj0109188/Public_LuminaView)
 
 ## Contact & Channel
 **Email** | tjdwns6481@naver.com <br>
